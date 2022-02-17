@@ -1,4 +1,5 @@
-  tasks:
+---
+tasks:
     - name: just display
       shell: uptime
       register: hostname
